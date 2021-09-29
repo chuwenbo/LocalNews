@@ -1,0 +1,10 @@
+E:\GitHub\LocalNews\LocalNews.Service\bin\Debug\netstandard2.1\LocalNews.Service.deps.json
+E:\GitHub\LocalNews\LocalNews.Service\bin\Debug\netstandard2.1\LocalNews.Service.dll
+E:\GitHub\LocalNews\LocalNews.Service\bin\Debug\netstandard2.1\LocalNews.Service.pdb
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.AssemblyInfoInputs.cache
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.AssemblyInfo.cs
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.dll
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.pdb
+E:\GitHub\LocalNews\LocalNews.Service\obj\Debug\netstandard2.1\LocalNews.Service.csproj.AssemblyReference.cache
