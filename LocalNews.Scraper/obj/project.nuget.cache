@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOQbE1en0RhU3ISLZsiWLU0D93Sp7+KlrVlwzD3wTZSh0czVdpnDk63b/dgPeB0JjgCSu5u/IXfK0BYuDETv1w==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\LocalNews\\LocalNews.Scraper\\LocalNews.Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chu\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}

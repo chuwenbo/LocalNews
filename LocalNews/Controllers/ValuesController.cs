@@ -54,5 +54,12 @@ namespace LocalNews.Controllers
         public void Delete(int id)
         {
         }
+
+        [HttpGet("GetAll")]
+        public ActionResult<IEnumerable<string>> GetAll()
+        {
+            return new string[] { "value1", "value2" };
+        }
+
     }
 }
